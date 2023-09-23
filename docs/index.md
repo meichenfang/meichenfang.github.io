@@ -14,7 +14,7 @@ Here are some of my recent projects:
 - [Project 1](/projects/project1)
 - [Project 2](/projects/project2)
 
-## [publications](https://scholar.google.com/citations?user=YtrJtZkAAAAJ&hl=en).
+## [Publications](https://scholar.google.com/citations?user=YtrJtZkAAAAJ&hl=en).
 
 ## Contact Me
 
