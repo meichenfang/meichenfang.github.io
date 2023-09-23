@@ -9,15 +9,12 @@ I am Meichen Fang, a graduate student at Caltech.
 
 ## Research
 
-Here are some of my recent projects:
+I am interested in biophysical models of gene expression, especially for single cell sequencing data.
 
-- [Project 1](/projects/project1)
-- [Project 2](/projects/project2)
-
-## [Publications](https://scholar.google.com/citations?user=YtrJtZkAAAAJ&hl=en).
+## [Publications](https://scholar.google.com/citations?user=YtrJtZkAAAAJ&hl=en)
 
 ## Contact Me
 
-Feel free to reach out to me via [email](mffang@caltech.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me via [email](mffang@caltech.edu).
 
 ---
