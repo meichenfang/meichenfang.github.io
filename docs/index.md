@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Meichen Fang
 ---
 
 # Welcome to My Personal Website
@@ -9,7 +9,7 @@ I am Meichen Fang, a graduate student at Caltech.
 
 ## Research
 
-I am interested in biophysical models of gene expression, especially for single cell sequencing data.
+I am interested in approxiamation methods of chemical master equation and biophysical models of gene expression for single cell sequencing data.
 
 ## [Publications](https://scholar.google.com/citations?user=YtrJtZkAAAAJ&hl=en)
 
