@@ -1,0 +1,33 @@
+# Site settings
+title: "Meichen Fang"
+description: "Personal Website"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://meichenfang.github.io" # the base hostname & protocol for your site
+
+# Author information
+author:
+  name: "Meichen Fang"
+  email: "mffang@caltech.edu"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minima # Example of using a Jekyll theme
+permalink: pretty # Pretty URLs without file extensions
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research"
+  - title: "Publication"
+  url: "/publication"
+  - title: "Contact"
+    url: "/contact"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  # Add other plugins as needed
+
