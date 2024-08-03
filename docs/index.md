@@ -3,17 +3,17 @@ layout: default
 title: Meichen Fang
 ---
 
-# Welcome to My Personal Website
+# About
 
-I am Meichen Fang, a graduate student at Caltech. 
+I am Meichen Fang, a graduate student at [Pachter lab](https://pachterlab.github.io/). 
 
-## Research
+# Research
 
-I am interested in approxiamation methods of chemical master equation and biophysical models of gene expression for single cell sequencing data.
+I am interested in theory of approxiamation methods for chemical master equation and biophysical models of gene expression for single cell sequencing data.
 
-## [Publications](https://scholar.google.com/citations?user=YtrJtZkAAAAJ&hl=en)
+# [Publications](https://scholar.google.com/citations?user=YtrJtZkAAAAJ&hl=en)
 
-## Contact Me
+# Contact Me
 
 Feel free to reach out to me via [email](mffang@caltech.edu).
 
