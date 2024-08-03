@@ -14,17 +14,6 @@ markdown: kramdown
 theme: jekyll-theme-minima # Example of using a Jekyll theme
 permalink: pretty # Pretty URLs without file extensions
 
-# Navigation links
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "Research"
-    url: "/research"
-  - title: "Publication"
-  url: "/publication"
-  - title: "Contact"
-    url: "/contact"
-
 # Plugins
 plugins:
   - jekyll-feed
