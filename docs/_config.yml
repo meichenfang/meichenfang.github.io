@@ -11,7 +11,7 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minima # Example of using a Jekyll theme
+theme: jekyll-theme-minimal # Example of using a Jekyll theme
 permalink: pretty # Pretty URLs without file extensions
 
 # Plugins
